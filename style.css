@@ -1,0 +1,73 @@
+
+body{
+    background-color: thistle;
+}
+#header{
+width: 100%;
+
+}
+.logo{
+    width: 60;
+    height: 70;
+}
+
+nav{
+background-color: thistle;
+padding: 15px;
+margin: 15px;
+
+}
+.image{
+
+    width: 400;
+    height: 400;
+    border: 10px;
+
+}
+.btn{
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    font-size: large;
+}
+a{
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+margin-left: 16px;
+margin-right: 16px;
+text-decoration: none;
+
+}
+video{
+width: 100%;
+
+}
+#mainTable{
+
+    width: 100%;
+}
+#userPic{
+width: 500px;
+
+
+}
+.bio{
+
+    width: 70%;
+    text-align: left;
+}
+
+
+
+.name {
+color: seagreen;
+
+}
+#field{
+    color: red;
+}
+.info{
+    color:green;
+}
